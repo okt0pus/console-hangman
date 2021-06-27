@@ -28,15 +28,16 @@ In order to run the game you have to pass a text file as argument, where all you
 
 ### Game Pictures
 
-![1](D:\workspace\repos\console-hangman\pictures\1.png)
+![alt text](https://drive.google.com/file/d/1-bfnjuuJxX_hx95TmXCz-ENzAT2ZeUXA/view?usp=sharing)
 
-![2](D:\workspace\repos\console-hangman\pictures\2.png)
+![alt text](https://drive.google.com/file/d/1PFUShtQYURejYSnEISN2wqdiRAmaBhZB/view?usp=sharing)
 
-![3](D:\workspace\repos\console-hangman\pictures\3.png)
+![alt text](https://drive.google.com/file/d/1gWT8U1gu6TLaeU1KFjcrUSbu5YZQ9qaZ/view?usp=sharing)
 
-![4](D:\workspace\repos\console-hangman\pictures\4.png)
+![alt text](https://drive.google.com/file/d/1nqvWACB93vteAPnRqo-DLAs_fQmrY19z/view?usp=sharing)
 
-![5](D:\workspace\repos\console-hangman\pictures\5.png)
+![alt text](https://drive.google.com/file/d/1tOyOCbb_uSsu6cX8jfSurs3MJV8Wgj4A/view?usp=sharing)
+
 
 ### FYI
 
