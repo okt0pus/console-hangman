@@ -46,3 +46,7 @@ This project was created as an educational project in order to get familiar with
 If you are new to programming and want a small project to start learning this one can be a good start.
 
 Hope that the comments from the code helps new programmers to get started.
+
+### TODO
+* Improve memory usage
+* Solve resize bugs
