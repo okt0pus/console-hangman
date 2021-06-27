@@ -28,16 +28,15 @@ In order to run the game you have to pass a text file as argument, where all you
 
 ### Game Pictures
 
-![](https://drive.google.com/uc?export=view&id=1tOyOCbb_uSsu6cX8jfSurs3MJV8Wgj4A)
+![](https://drive.google.com/uc?export=view&id=1kn_tXQekm1aGAUYhuADN3UZHPHeh4MBQ)
 
-![](https://drive.google.com/uc?export=view&id=1PFUShtQYURejYSnEISN2wqdiRAmaBhZB)
+![](https://drive.google.com/uc?export=view&id=1oI9NenLUeu7WHwaPbFXytBzoA2qsT1Rt)
 
-![](https://drive.google.com/uc?export=view&id=1gWT8U1gu6TLaeU1KFjcrUSbu5YZQ9qaZ)
+![](https://drive.google.com/uc?export=view&id=1YSJKYmmttCpz7fYkgR4PP1uWKPnmTc9y)
 
-![](https://drive.google.com/uc?export=view&id=1nqvWACB93vteAPnRqo-DLAs_fQmrY19z)
+![](https://drive.google.com/uc?export=view&id=1-n0TN0HmKztfBdSchap_FjbiZ-qHbsSg)
 
-![](https://drive.google.com/uc?export=view&id=1tOyOCbb_uSsu6cX8jfSurs3MJV8Wgj4A)
-
+![](https://drive.google.com/uc?export=view&id=1fuo36302poXQryqdjfZfYWNwKtPZT_Ka)
 
 ### FYI
 
